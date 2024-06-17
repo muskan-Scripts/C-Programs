@@ -20,4 +20,4 @@ To get started with these programs, you can clone the repository to your local m
 
 ```bash
 git clone https://github.com/muskan-Scripts/C-Programs.git
-cd your-repo-name
+cd C-Programs
